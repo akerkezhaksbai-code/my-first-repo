@@ -1,1 +1,1 @@
-"Title from main branch" 
+"Final Project Title" 
